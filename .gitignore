@@ -16,6 +16,5 @@ build/
 *.ipr
 *.iws
 .idea
-*.jar
 *.orig
 web-app/WEB-INF/tld
