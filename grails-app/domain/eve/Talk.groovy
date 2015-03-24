@@ -13,7 +13,7 @@ class Talk{
     Date lastUpdate = new Date()
 
     static belongsTo = [event: Event]
-    static hasMany = [ speakers: Speaker ]
+    static hasMany = [speakers: Speaker]
 
 
     static constraints = {
